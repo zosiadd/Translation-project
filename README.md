@@ -18,7 +18,7 @@ It is also possible to load an mRNA sequence from a file (.txt or fasta) via the
 This project was carried out as part of student projects by: 
 [zosiadd](https://github.com/zosiadd) and [Kasiek123](https://github.com/Kasiek123)
 
-<h2>Demonstration</h2>
+<h2>Translation App demonstration</h2>
 <h3 align="center">Translation App</h3>
 
 <div align="center">
